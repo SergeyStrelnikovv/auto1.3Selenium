@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RegistrationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-29T13:40:10" hostname="SERGEY" time="17.857">
+<testsuite name="RegistrationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-29T13:47:49" hostname="SERGEY" time="16.356">
   <properties/>
-  <testcase name="shouldShowErrorWhenCheckboxInactive()" classname="RegistrationTest" time="3.453"/>
-  <testcase name="shouldShowErrorWhenNameIsEmpty()" classname="RegistrationTest" time="2.895"/>
-  <testcase name="shouldShowErrorWhenPhoneIsEmpty()" classname="RegistrationTest" time="2.846"/>
-  <testcase name="shouldShowErrorWhenPhoneIsIncorrect()" classname="RegistrationTest" time="2.898"/>
-  <testcase name="shouldSendForm()" classname="RegistrationTest" time="2.863"/>
-  <testcase name="shouldShowErrorWhenNameIsIncorrect()" classname="RegistrationTest" time="2.9"/>
+  <testcase name="shouldShowErrorWhenCheckboxInactive()" classname="RegistrationTest" time="5.015"/>
+  <testcase name="shouldShowErrorWhenNameIsEmpty()" classname="RegistrationTest" time="2.25"/>
+  <testcase name="shouldShowErrorWhenPhoneIsEmpty()" classname="RegistrationTest" time="2.238"/>
+  <testcase name="shouldShowErrorWhenPhoneIsIncorrect()" classname="RegistrationTest" time="2.263"/>
+  <testcase name="shouldSendForm()" classname="RegistrationTest" time="2.272"/>
+  <testcase name="shouldShowErrorWhenNameIsIncorrect()" classname="RegistrationTest" time="2.316"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 27824
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 58053
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 29, 2022 4:40:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 29, 2022 4:47:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 11599
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 10091
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 29, 2022 4:40:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 29, 2022 4:47:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 6314
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 31705
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 29, 2022 4:40:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 29, 2022 4:47:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 14702
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 50298
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 29, 2022 4:40:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 29, 2022 4:47:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 32525
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 57656
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 29, 2022 4:40:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 29, 2022 4:48:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 16328
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 8571
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 29, 2022 4:40:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 29, 2022 4:48:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
