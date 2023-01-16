@@ -1,0 +1,14 @@
+image: gradle:alpine
+
+default:
+  tags:
+    - shellLocal
+
+stages:
+  - test
+
+Integration test with Allure:
+  stage: test
+  script:
+    - ./gradle clean test
+
